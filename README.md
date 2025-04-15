@@ -10,7 +10,7 @@
 
 ## 시작하기
 
-다운로드는 [여기](https://github.com/goalgoloo1/TraumaCenterAjussi/releases/tag/1.0.0)
+게임 빌드 다운로드는 [여기](https://github.com/goalgoloo1/TraumaCenterAjussi/releases/tag/1.0.0)
 
 ## How to play
 ![PNG](keyboardandmouse.png)
