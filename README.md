@@ -2,4 +2,4 @@
 
 ![GIF](start.gif) 
 
-![PNG](keyboardandmouse)
+![PNG](keyboardandmouse.png)
