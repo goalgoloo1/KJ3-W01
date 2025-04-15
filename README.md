@@ -8,6 +8,10 @@
 환자를 **구조** 함과 동시에 생존해야합니다.
 **레드존, 구급상자, 총**을 통해 다양한 전략을 구사해보세요!
 
+## 시작하기
+
+다운로드는 [여기](https://github.com/goalgoloo1/TraumaCenterAjussi/releases/tag/1.0.0)
+
 ## How to play
 ![PNG](keyboardandmouse.png)
 
