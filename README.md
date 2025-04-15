@@ -3,9 +3,16 @@
 ![GIF](start.gif) 
 
 
-**The Trauma Center Hero**는 탑다운 서바이벌 슈팅게임입니다.
+**The Trauma Center Hero**는 탑다운 서바이벌 슈팅게임입니다. 
+
+환자를 **구조** 함과 동시에 생존해야합니다.
+**레드존, 구급상자, 총**을 통해 다양한 전략을 구사해보세요!
 
 ## How to play
 ![PNG](keyboardandmouse.png)
 
+
+## Known Issues
+- 레드존에 오브젝트가 가려짐.
+- 레드존 폭발에 닿아도 죽지않음.
 
