@@ -15,12 +15,7 @@
 ## How to play
 ![PNG](keyboardandmouse.png)
 
-## Authors
 
-*   **NuttiNutti** - [Github](https://github.com/NuttiNutti)
-*   **junyoon99** - [Github](https://github.com/junyoon99)
-*   **YS1NE** - [Github](https://github.com/YS1NE)
-*   **goalgoloo1** - [Github](https://github.com/goalgoloo1)
 
 
 ## Known Issues
